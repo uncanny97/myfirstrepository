@@ -1,5 +1,5 @@
 h1 {
-  color: pink;
+  color: red;
 }
 p {
   color:blue;
@@ -7,11 +7,12 @@ p {
   font-size:16px;
 }
 ul {
-  background: blue ;
+  background: yellow;
 }
 h2{
   color:green;
   background:orange;
 }
 ol li {
+  background: teal;
 }
